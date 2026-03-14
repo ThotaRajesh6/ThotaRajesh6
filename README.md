@@ -5,8 +5,7 @@
   <h3>Software Intern</h3>
 
   <p>
-    Passionate and results-driven Full Stack Developer in building scalable web applications, 
-    mobile backends, and enterprise-level platforms using modern technologies.
+    Passionate and results-driven Full Stack Developer in building scalable web applications using modern technologies.
   </p>
 
 </div>
